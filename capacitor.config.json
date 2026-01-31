@@ -1,0 +1,17 @@
+{
+  "appId": "app.lovable.b90f985cc14f4e688aea6dcc5d98de02",
+  "appName": "resurrect-my-site",
+  "webDir": "dist",
+  "server": {
+    "url": "https://b90f985c-c14f-4e68-8aea-6dcc5d98de02.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "backgroundColor": "#000000",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false
+    }
+  }
+}
